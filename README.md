@@ -1,2 +1,2 @@
 # streaming-mta
-Multi-Touch Attribution com comparação de modelos: last-touch, linear, Shapley. Discussão de limitações vs. MMM.
+Multi-Touch Attribution with model comparison: last-touch, linear, and Shapley value allocation. Discussion of limitations relative to MMM.
